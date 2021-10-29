@@ -1,0 +1,5 @@
+@mixin font-style-mixin {
+    font-size: convertToEM(26);
+    font-weight: 400;
+    font-family: "Festive", cursive;
+}
